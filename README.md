@@ -1,6 +1,7 @@
 <h1 align="center">Tech stack</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -19,6 +20,11 @@
 <h1 align="center">Github</h1>
 <p align="center">
   <a href="https://github.com/ehdbs0903">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ehdbs0903&hide=&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ehdbs0903">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehdbs0903&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=" />
   </a>
 </p>
@@ -34,9 +40,9 @@
 
 <h1 align="center">CODE TREE</h1>
 <div align="center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdbs0903)](https://solved.ac/ehdbs0903/)
+
 [![코드트리|실력진단-ehdbs0903](https://banner.codetree.ai/v1/banner/ehdbs0903)](https://www.codetree.ai/profiles/ehdbs0903)
+
 </div>
 <br></br>
 
