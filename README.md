@@ -30,7 +30,7 @@
 </p>
 <br></br>
 
-<h1 align="center">Backjoon</h1>
+<h1 align="center">Baekjoon</h1>
 <div align="center">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdbs0903)](https://solved.ac/ehdbs0903/)
